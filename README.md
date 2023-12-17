@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram: @zavier.riggs
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I have never seen Harry Potter
--->
+--> (zavier's link)[https://github.com/zavierriggs/zavierriggs/blob/main/Project_6.ipynb]
